@@ -4,3 +4,4 @@ node_modules/
 *.aes
 *.zip
 *.metadata
+*.json
